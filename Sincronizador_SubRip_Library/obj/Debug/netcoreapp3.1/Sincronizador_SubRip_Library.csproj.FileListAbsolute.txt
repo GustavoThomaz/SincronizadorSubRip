@@ -1,0 +1,10 @@
+C:\Users\Gustavo\source\repos\Sincroniza_SubRip\Sincronizador_SubRip_Library\bin\Debug\netcoreapp3.1\Sincronizador_SubRip_Library.deps.json
+C:\Users\Gustavo\source\repos\Sincroniza_SubRip\Sincronizador_SubRip_Library\bin\Debug\netcoreapp3.1\Sincronizador_SubRip_Library.dll
+C:\Users\Gustavo\source\repos\Sincroniza_SubRip\Sincronizador_SubRip_Library\bin\Debug\netcoreapp3.1\Sincronizador_SubRip_Library.pdb
+C:\Users\Gustavo\source\repos\Sincroniza_SubRip\Sincronizador_SubRip_Library\obj\Debug\netcoreapp3.1\Sincronizador_SubRip_Library.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\Sincroniza_SubRip\Sincronizador_SubRip_Library\obj\Debug\netcoreapp3.1\Sincronizador_SubRip_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\Sincroniza_SubRip\Sincronizador_SubRip_Library\obj\Debug\netcoreapp3.1\Sincronizador_SubRip_Library.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\Sincroniza_SubRip\Sincronizador_SubRip_Library\obj\Debug\netcoreapp3.1\Sincronizador_SubRip_Library.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\Sincroniza_SubRip\Sincronizador_SubRip_Library\obj\Debug\netcoreapp3.1\Sincronizador_SubRip_Library.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Sincroniza_SubRip\Sincronizador_SubRip_Library\obj\Debug\netcoreapp3.1\Sincronizador_SubRip_Library.dll
+C:\Users\Gustavo\source\repos\Sincroniza_SubRip\Sincronizador_SubRip_Library\obj\Debug\netcoreapp3.1\Sincronizador_SubRip_Library.pdb
